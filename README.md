@@ -58,5 +58,3 @@ Acquiring a new customer costs 5-7x more than retaining one.
 A churn prediction system that saves even 10 customers/month
 at $100 average value = $1,000/month saved = $12,000/year.
 
-## 📫 Want This for Your Business?
-Contact me on Fiverr: [your-fiverr-link]
